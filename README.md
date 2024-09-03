@@ -12,7 +12,7 @@ Docente: Kevin Jiménez
 Asignatura: Desarrollo de Software para Móviles.
 
 <h3>Descripción</h3>
-
+En este repositorio se encontraran todos los archivos necesarios para la creación del sistema de Registro de Estudiantes para el Centro Escolar Católico Alberto Masferrer.
 
 <h3>Integrantes</h3>
 <ul>
